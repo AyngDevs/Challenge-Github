@@ -1,0 +1,2 @@
+export const OPENED_TOPIC = 'OPENED_TOPIC';
+export const FETCHED_TOPIC = "FETCHED_TOPIC";

@@ -2,6 +2,10 @@
 1. Run `npm install`
 2. Run `npm run dev`
 
+## Steps to test the app:
+It only test the `topics reducer`
+1. Run `npm run test`
+
 ## Necessary topics:
 - React
 - Redux
